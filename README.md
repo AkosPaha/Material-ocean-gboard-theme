@@ -12,7 +12,7 @@
 - Open and Grant root and permission for Rboard Theme Manager App<br>
 - After you done then extract the zip and in the zip you found the files and zip select all and paste here:
 
-/system/etc/gboard_themes
+            /system/etc/gboard_themes
 
 - Or just download from the Rboard Theme Manager app!!
 
