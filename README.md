@@ -1,4 +1,9 @@
-# Material-ocen-gboard-theme
+# Material-ocean-gboard-theme
+
+<p align="center">
+<img src="/Material_lively.png" alt="Material_lively">
+</p>
+
 
 # How to apply:
 -Download the <a href="https://t.me/gboardthemes/44316">Rboard Magisk Module</a> and the <a href="https://github.com/DerTyp7214/Rboard-Theme-Manager/releases"> Rboard Themes Manager app</a><br>
