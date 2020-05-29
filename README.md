@@ -14,7 +14,8 @@
 
 /system/etc/gboard_themes
 
-Or just download from the Rboard Theme Manager app!!
+-Or just download from the Rboard Theme Manager app!!
+
 
 Enjoy!!
 
